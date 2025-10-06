@@ -1,6 +1,7 @@
-package Day3.constructor;
+package dayThree;
+
 import java.util.Scanner;
-public class Constructor {
+public class ConstructorPro {
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
 		String name, city;

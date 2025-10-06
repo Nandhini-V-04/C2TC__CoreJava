@@ -1,6 +1,8 @@
-package Day3.ScannerDemo;
+package dayThree.SCannerex;
 
-public class TaxCalculation {
+import Day3.ScannerDemo.Person;
+
+public class TextCalculation {
 	public void calculateTax(Person person) {
 		if (person.getAge() > 65 || person.getGender().equalsIgnoreCase("female")) {
 			person.setTax(0);

@@ -1,6 +1,6 @@
-package Day3.constructor;
+package dayThree;
 
-public class Customer {
+public class customers {
 	private String customerName;
 	 private int customerId;
 	 private String customerCity;

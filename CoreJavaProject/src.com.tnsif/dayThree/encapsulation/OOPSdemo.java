@@ -1,6 +1,6 @@
-package Day3.Encapsulation;
+package dayThree.encapsulation;
 
-public class OopsConceptDemo {
+public class OOPSdemo {
 
 	private int serialNum;
 	private String name;

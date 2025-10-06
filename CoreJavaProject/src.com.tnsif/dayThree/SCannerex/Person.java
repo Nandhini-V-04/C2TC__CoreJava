@@ -1,4 +1,4 @@
-package Day3.ScannerDemo;
+package dayThree.SCannerex;
 
 public class Person {
 	private String name;

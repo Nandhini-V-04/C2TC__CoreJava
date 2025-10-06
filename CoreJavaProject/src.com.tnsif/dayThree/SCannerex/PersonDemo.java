@@ -1,7 +1,10 @@
-package Day3.ScannerDemo;
+package dayThree.SCannerex;
 
-public class Persondemo {
+import Day3.ScannerDemo.Person;
+import Day3.ScannerDemo.Scanner;
+import Day3.ScannerDemo.TaxCalculation;
 
+public class PersonDemo {
 	public static void main(String[] args) {
 
 		//scanner object to accept user inputs
